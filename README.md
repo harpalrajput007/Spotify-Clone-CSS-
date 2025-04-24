@@ -5,7 +5,9 @@ A clean and simple **Spotify UI clone** created using **HTML and CSS**. This pro
 ## 📸 Screenshots
 
 ![Screenshot 2025-04-24 201247](https://github.com/user-attachments/assets/34d2db1c-b123-4bbe-b2d9-443d03b08ffa)
-
+![Screenshot 2025-04-24 201301](https://github.com/user-attachments/assets/9367bb38-c865-4fd4-af3e-e4fb38953d1f)
+![Screenshot 2025-04-24 201311](https://github.com/user-attachments/assets/597a854a-4100-49ef-96fc-0b33161cd826)
+![Screenshot 2025-04-24 201321](https://github.com/user-attachments/assets/307dee29-1a9c-4232-bf85-0ef5a1ca43b4)
 
 ## 🚀 Features
 
