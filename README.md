@@ -4,6 +4,7 @@ A clean and simple **Spotify UI clone** created using **HTML and CSS**. This pro
 
 ## 📸 Screenshots
 
+![Screenshot 2025-04-24 201247](https://github.com/user-attachments/assets/34d2db1c-b123-4bbe-b2d9-443d03b08ffa)
 
 
 ## 🚀 Features
@@ -20,14 +21,7 @@ A clean and simple **Spotify UI clone** created using **HTML and CSS**. This pro
 
 ## 📁 Folder Structure
 
-Spotify Clone
-  |_index.html
-  |_style.css
-  |_assets
-    |_contains images/ media assests 
-  |_symbols
-    |_contains icons
-
+spotify-clone/ ├── assets/ # Contains images or media assets ├── symbols/ # Contains icons or SVGs used in the UI ├── index.html # Main HTML structure of the app └── style.css # CSS file containing all the styling
   
 ## 💡 Inspiration
 
